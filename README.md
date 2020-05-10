@@ -9,18 +9,6 @@
 </h3>
 
 <p align="center">
-  <img alt="Languagues" src="https://img.shields.io/github/languages/count/fernandonati/GoMarketPlace">
-  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/fernandonati/GoMarketPlace">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fernandonati/GoMarketPlace">
-  <a href="https://github.com/fernandonati/GoMarketPlace/commits/master">
-    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/fernandonati/GoMarketPlace">
-  </a>
-   <a href="https://github.com/fernandonati/GoMarketPlace/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/fernandonati/GoMarketPlace">
-  </a>
-  <img alt="License" src="https://img.shields.io/github/license/fernandonati/GoMarketPlace">
-</p>
-<p align="center">
 
   <a href="https://github.com/fernandonati" target="_blank">
     <img alt="Made by Fernando Nati" src="https://img.shields.io/badge/made%20by-Fernando_Nati-informational">
